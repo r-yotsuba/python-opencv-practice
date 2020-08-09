@@ -2,11 +2,11 @@
 
 openCVのAPIを色々試してみるリポジトリです。  
 
-* jupyter notebook *で作成しています。
+`jupyter notebook`で作成しています。
 
 - Anaconda Promptを起動する
-- *> jupyter notebook*
+- `> jupyter notebook`
 
 ---
 
-- [openCV　公式doc](https://docs.opencv.org/master/index.html)
+- [openCV 公式doc](https://docs.opencv.org/master/index.html)
