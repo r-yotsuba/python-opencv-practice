@@ -11,7 +11,9 @@ openCVのAPIを色々試してみるリポジトリです。
 - blur - ぼかし
 - canny - エッジ検出
 - dilate and erode - 膨張, 伸縮
+- equalizeHist - ヒストグラム平坦化
 - fillPoly - 多角形の塗りつぶし
+- getStructuringElement - カーネル生成
 - houghLines - 直線検出
 
 ## openCV ドキュメント
